@@ -1,5 +1,5 @@
 # Hi, I'm Julio! :D
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliofreitas/)](https://www.linkedin.com/in/juliofreitas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliofreitaseveris/)](https://www.linkedin.com/in/juliofreitas/)
 
 
 https://www.linkedin.com/feed/?trk=homepage-basic_signin-form_submit
