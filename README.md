@@ -1,5 +1,5 @@
 # Hi, I'm Julio! :D
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julio-freitas-5ba53b14a/)](https://https://www.linkedin.com/in/julio-freitas-5ba53b14a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julio-freitas/)](https://https://www.linkedin.com/in/julio-freitas/)
 
 - 👋 Hi, I’m @JulioFreitasEveris
 - 👀 I’m interested in ...
