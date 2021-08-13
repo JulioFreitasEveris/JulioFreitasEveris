@@ -1,8 +1,8 @@
 # Hi, I'm Julio! :D
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliofreitaseveris/)](https://www.linkedin.com/in/juliofreitaseveris/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julio-freitas-5ba53b14a/)](https://https://www.linkedin.com/in/julio-freitas-5ba53b14a/)
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juliofreitaseveris)](https://github.com/juliofreitaseveris)
 
-https://www.linkedin.com/feed/?trk=homepage-basic_signin-form_submit
 - 👋 Hi, I’m @JulioFreitasEveris
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
