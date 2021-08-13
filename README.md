@@ -1,8 +1,4 @@
-# Hi, I'm Fagner! :D
-
-[![Github Badge](https://github.com/JulioFreitasEveris)
-[![Linkedin Badge](https://www.linkedin.com/feed/?trk=homepage-basic_signin-form_submit)](https://www.linkedin.com/in/juliofreitas/)
-
+# Hi, I'm Julio! :D
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliofreitas/)](https://www.linkedin.com/in/juliofreitas/)
 
 
